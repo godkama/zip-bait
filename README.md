@@ -7,7 +7,7 @@ How to make a user go to a page which isn't the one requested
 You can currently get `.zip` domains for only 15$/y at Google Domains.
 
 <p align="center">
-  <a href="https://bit.ly/arzerox_bot" target="blank"><img src="[https://i.imgur.com/9jgrEE4.png](https://i.imgur.com/9jgrEE4.png)" alt="Djs" /></a>
+  <a href="https://bit.ly/arzerox_bot" target="blank"><img src="https://i.imgur.com/9jgrEE4.png" alt="IDK" /></a>
 </p>
 
 ## Step 2: Setup the actual bait
